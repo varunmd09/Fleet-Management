@@ -4,7 +4,7 @@
 1. Clone the repository and navigate to the project directory.
 2. Run `mvn spring-boot:run` to start the application.
 
-##h2-database
+## h2-database
 "name"="sr"
 "password"="pass123"
 
